@@ -14,7 +14,6 @@
 @import url(./blocks/profile/__name/profile__name.css);
 @import url(./blocks/profile/__editor/profile__editor.css);
 @import url(./blocks/profile/__description/profile__description.css);
-@import url(./blocks/profile/__add-mesto/profile__add-mesto.css);
 
 @import url(./blocks/cards/cards.css);
 @import url(./blocks/cards/__item/cards__item.css);
