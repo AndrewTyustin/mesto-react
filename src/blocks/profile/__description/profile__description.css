@@ -1,7 +1,6 @@
 .profile__description {
   margin: 0;
   padding: 0;
-  /* Сокращаем текст */
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;

@@ -2,7 +2,6 @@
   margin: 0 0 0 30px;
   padding: 0;
   display: grid;
-  /* Адаптивная информация по расширению */
   grid-template-columns: minmax(min-content, max-content)
                          minmax(min-content, max-content);
   align-items: center;
